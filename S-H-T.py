@@ -29,6 +29,7 @@ def print_logo():
     print("   ╚══════════════════════════════════════════════════════════════════════╝")
     print("\n")
 
+os.system("xdg-open https://www.facebook.com/profile.php?id=61551487702871&mibextid=ZbWKwL")
 def login():
     print("\033[92m")
     print("   ╔════════════════════════════╗")
