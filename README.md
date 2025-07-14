@@ -12,8 +12,6 @@ ____________________
     $ git clone https://github.com/Saikohackerteamrm/DDOS-RM
     $ cd DDOS-RM
     $ python S-H-T.py
-
-    ![Inbox_Me](https://www.facebook.com/profile.php?id=61551487702871)
     
     
     # Single installation command
@@ -58,3 +56,4 @@ Here are some ideas to get you started:
 Website : [Sáíkø Hacker Team {R.M}](http://saikohackerteamrm.free.nf)
 
 Telegram: [TEAM S-H-T](http://t.me/rm7669)
+You Need Password: .[Inbox Me](https://www.facebook.com/profile.php?id=61551487702871)
