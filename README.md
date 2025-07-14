@@ -13,9 +13,7 @@ ____________________
     $ cd DDOS-RM
     $ python S-H-T.py
     
-    ### Past Target Website Link 
-    ### Target Website IP And Port 
-    ### You Need Password: [ Inbox Me ] (https://www.facebook.com/profile.php?id=61551487702871)
+    ### You Need Password: [Inbox Me](https://www.facebook.com/profile.php?id=61551487702871)
     
     # Single installation command
 _______________________________________
